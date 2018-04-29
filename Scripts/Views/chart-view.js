@@ -1,4 +1,5 @@
 'use strict';
+// adding change so i can commit
 // placeholder variables  c* indicates graph colors, these will later be dictated by CSS
 //  price* will later be populated by API data from server.js
 var c1 = 'blue';
